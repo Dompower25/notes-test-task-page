@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.04a51af2.css",
-    "main.js": "/static/js/main.610e484b.js",
+    "main.css": "/static/css/main.726fd829.css",
+    "main.js": "/static/js/main.ac186b9f.js",
+    "static/media/1627093201_21-kartinkin-com-p-fon-melovaya-doska-zelenaya-krasivo-21.jpg": "/static/media/1627093201_21-kartinkin-com-p-fon-melovaya-doska-zelenaya-krasivo-21.c546ba7b76be0dee9d00.jpg",
     "index.html": "/index.html",
-    "main.04a51af2.css.map": "/static/css/main.04a51af2.css.map",
-    "main.610e484b.js.map": "/static/js/main.610e484b.js.map"
+    "main.726fd829.css.map": "/static/css/main.726fd829.css.map",
+    "main.ac186b9f.js.map": "/static/js/main.ac186b9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.04a51af2.css",
-    "static/js/main.610e484b.js"
+    "static/css/main.726fd829.css",
+    "static/js/main.ac186b9f.js"
   ]
 }
